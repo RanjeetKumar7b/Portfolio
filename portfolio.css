@@ -573,6 +573,12 @@ footer span .social a {
 		margin: 20px 0;
 		font-size: 25px;
 	}
+	.home .home-content .left img {
+		height: 150px;
+		width: 150px;
+		object-fit: center;
+		border-radius: 150px;
+	}
 	.home .home-content .text-2 {
 		font-size: 70px;
 	}
