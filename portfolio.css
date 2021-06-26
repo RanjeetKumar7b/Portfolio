@@ -169,7 +169,7 @@ section .title::after {
 .home {
 	display: flex;
 	background: url("https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80") no-repeat center;
-	height: 40vh;
+	height: 60vh;
 	color: #fff;
 	/* min-height: 200px; */
 	background-size: cover;
@@ -177,8 +177,8 @@ section .title::after {
 	font-family: 'Ubuntu', sans-serif;
 }
 .home .home-content .left img {
-	height: 200px;
-	width: 200px;
+	height: 400px;
+	width: 400px;
 	object-fit: center;
 	border-radius: 150px;
 }
@@ -249,7 +249,7 @@ section .title::after {
 	color: rgb(11, 228, 174);
 	background: none;
 }
-/* interests section styling */
+/* Certificate section styling */
 .Certificate,
 .projects {
 	color: #fff;
@@ -571,6 +571,12 @@ footer span .social a {
 		display: inline-block;
 		margin: 20px 0;
 		font-size: 25px;
+	}
+	.home .home-content .left img {
+		height: 200px;
+		width: 200px;
+		object-fit: center;
+		border-radius: 800px;
 	}
 	.home .home-content .text-2 {
 		font-size: 70px;
