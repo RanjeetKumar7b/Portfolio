@@ -180,7 +180,7 @@ section .title::after {
 	height: 400px;
 	width: 400px;
 	object-fit: center;
-	border-radius: 150px;
+	border-radius: 800px;
 	margin-top: 35%;
 }
 .home .max-width {
