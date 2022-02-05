@@ -177,8 +177,9 @@ section .title::after {
 	font-family: 'Ubuntu', sans-serif;
 }
 .home .home-content .left img {
-	height: 230px;
+	height: 200px;
 	width: 200px;
+	margin-top: 20px;
 	object-fit: center;
 	border-radius: 800px;
 }
