@@ -177,8 +177,8 @@ section .title::after {
 	font-family: 'Ubuntu', sans-serif;
 }
 .home .home-content .left img {
-	height: 200px;
-	width: 200px;
+	height: 228px;
+	width: 228px;
 	object-fit: center;
 	border-radius: 800px;
 }
@@ -577,7 +577,7 @@ footer span .social a {
 		width: 150px;
 		object-fit: center;
 		border-radius: 150px;
-		margin-top: 25%;
+		margin-top: 29%;
 	}
 	.home .home-content .text-2 {
 		font-size: 70px;
